@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/@GlaceYT">
+  <a href="https://youtube.com/@splishyzbestsite">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"
       alt="YouTube" />
   </a>
 
-  <a href="https://discord.gg/xQF9f9yUEM">
+  <a href="https://discord.gg/x4ZXJ9kX2W">
     <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
       alt="Join Discord" />
   </a>
