@@ -1,4 +1,4 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+![Animated Background](https://cdn.discordapp.com/attachments/1282931642620706908/1283459804089548800/standard.gif?ex=66e50cd6&is=66e3bb56&hm=486e1f8a2f13da3403fbac39125e428e8ebe9afd23be8b74cf94d82b15d2b84b&)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   SKIDTHO STATUS CHANGER
